@@ -35,13 +35,25 @@ Explanation:
 - **Email**: Accepts the user's email, which will be used for login in the system.
 - **Password**: Accepts the user's password, which is required for authentication.
 
-## Starting SpringBoot App
+## Starting SpringBoot App Successfully
 ![image](https://github.com/satishchile/HealthCareSystem/assets/124240024/4f99c6e5-85bf-4870-b551-bbf0f578bb30)
 
-
-
-
-
-
 ## Registration Process
+![Screenshot (2939)](https://github.com/satishchile/HealthCareSystem/assets/124240024/071cc5e1-cff9-4411-860a-90977efb4c54)
+--changes reflecting in dataBase
+![Screenshot (2940)](https://github.com/satishchile/HealthCareSystem/assets/124240024/4131fef6-cdfb-403a-abae-ed7e4961013f)
+
+while registering user with hhp post method having url of register  
+    POST/register
+    HTTP Method: POST
+    Endpoint: /register
+    
+    
+ ## Nowly added user login in your application
+    ![Screenshot (2941)](https://github.com/satishchile/HealthCareSystem/assets/124240024/155c7bd1-5f26-45a2-b3c3-6bc10f2d5b35)
+
+    
+    
+
+
 
