@@ -38,10 +38,10 @@ Explanation:
 ## Starting SpringBoot App Successfully
 ![image](https://github.com/satishchile/HealthCareSystem/assets/124240024/4f99c6e5-85bf-4870-b551-bbf0f578bb30)
 
-## Registration Process
+## Registration Process of new users
 ![Screenshot (2939)](https://github.com/satishchile/HealthCareSystem/assets/124240024/071cc5e1-cff9-4411-860a-90977efb4c54)
 
-## changes reflecting in dataBase
+## after registration changes reflecting in dataBase
 ![Screenshot (2940)](https://github.com/satishchile/HealthCareSystem/assets/124240024/4131fef6-cdfb-403a-abae-ed7e4961013f)
 
 while registering user with hhp post method having url of register  
