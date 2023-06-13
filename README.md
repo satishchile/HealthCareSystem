@@ -40,7 +40,8 @@ Explanation:
 
 ## Registration Process
 ![Screenshot (2939)](https://github.com/satishchile/HealthCareSystem/assets/124240024/071cc5e1-cff9-4411-860a-90977efb4c54)
---changes reflecting in dataBase
+
+## changes reflecting in dataBase
 ![Screenshot (2940)](https://github.com/satishchile/HealthCareSystem/assets/124240024/4131fef6-cdfb-403a-abae-ed7e4961013f)
 
 while registering user with hhp post method having url of register  
@@ -49,8 +50,35 @@ while registering user with hhp post method having url of register
     Endpoint: /register
     
     
- ## Nowly added user login in your application
+ ## Nowly added user login in application 
     ![Screenshot (2941)](https://github.com/satishchile/HealthCareSystem/assets/124240024/155c7bd1-5f26-45a2-b3c3-6bc10f2d5b35)
+    implementing user login, you establish a crucial layer of security for your application, protecting sensitive data, maintaining user privacy, and controlling access to the application's resources.
+
+## Getting all user
+![Screenshot (2942)](https://github.com/satishchile/HealthCareSystem/assets/124240024/6b0ca266-839d-4234-91f4-72ec1062818a)
+
+  features provide administrators with the necessary tools to manage user-related operations effectively and maintain control over the system's user base.
+  operation like View User List,Search Users,Search Users,Suspend/Activate User Accounts,Delete User Accounts,Audit User Activities
+
+## performing Customize operation 
+## when old lady wnts to find doctor by specialization like finding all doctors who work in oncologist ,here is exaple 
+## doctor 1
+![Screenshot (2950)](https://github.com/satishchile/HealthCareSystem/assets/124240024/b1f7b34b-944e-4236-b058-9a1e21099bb5)
+## doctor 2
+![Screenshot (2951)](https://github.com/satishchile/HealthCareSystem/assets/124240024/ffaf80b0-17c4-4aae-9f01-bd5baf55ac55)
+## all doctors
+![Screenshot (2952)](https://github.com/satishchile/HealthCareSystem/assets/124240024/7b1f1b03-6816-46ad-85c1-f29a0950c5ce)
+The above list provides the names of doctors specializing in oncology, along with their affiliated hospitals, contact information, ambulance phone number and addresses.
+## database table of doctors 
+![Screenshot (2948)](https://github.com/satishchile/HealthCareSystem/assets/124240024/6ff6943c-0b70-4972-a209-cebc5aab195f)
+
+## By considering fact that older individuals who may have difficulty remembering details(dementia disease), such as the specilization of doctors, so we can  allows them to search for doctors by name.
+![Screenshot (2949)](https://github.com/satishchile/HealthCareSystem/assets/124240024/6ed5fa97-dacb-481d-8d0c-a9f250c12fa9)
+
+## To enhance the design for scalability and emergency response, we can incorporate an emergency button feature. Here's a formatted text explaining the addition of an emergency button for immediate access to emergency services
+
+
+
 
     
     
