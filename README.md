@@ -57,8 +57,8 @@ while registering user with hhp post method having url of register
 ## Getting all user
 ![Screenshot (2942)](https://github.com/satishchile/HealthCareSystem/assets/124240024/6b0ca266-839d-4234-91f4-72ec1062818a)
 
-  features provide administrators with the necessary tools to manage user-related operations effectively and maintain control over the system's user base.
-  operation like View User List,Search Users,Search Users,Suspend/Activate User Accounts,Delete User Accounts,Audit User Activities
+  ## features provide administrators with the necessary tools to manage user-related operations effectively and maintain control over the system's user base.
+  ## operation like View User List,Search Users,Search Users,Suspend/Activate User Accounts,Delete User Accounts,Audit User Activities
 
 ## performing Customize operation 
 ## when old lady wnts to find doctor by specialization like finding all doctors who work in oncologist ,here is exaple 
@@ -75,12 +75,9 @@ The above list provides the names of doctors specializing in oncology, along wit
 ## By considering fact that older individuals who may have difficulty remembering details(dementia disease), such as the specilization of doctors, so we can  allows them to search for doctors by name.
 ![Screenshot (2949)](https://github.com/satishchile/HealthCareSystem/assets/124240024/6ed5fa97-dacb-481d-8d0c-a9f250c12fa9)
 
-## To enhance the design for scalability and emergency response, we can incorporate an emergency button feature. Here's a formatted text explaining the addition of an emergency button for immediate access to emergency services
 
-
-
-
-    
+## To enhance the design for scalability and emergency response, we can incorporate an emergency button feature give access to emergency services.
+## By including an emergency button, we aim to provide older individuals with a reliable and accessible means to request emergency assistance promptly. This feature can help ensure their safety and well-being during critical situations.
     
 
 
